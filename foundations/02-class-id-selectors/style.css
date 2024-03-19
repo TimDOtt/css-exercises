@@ -1,0 +1,19 @@
+.pink {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#fs23 {
+    font-size: 24px;
+}
+
+#bold {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
