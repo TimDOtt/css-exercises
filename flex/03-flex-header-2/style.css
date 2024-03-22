@@ -61,7 +61,3 @@ ul {
   padding: 0;
   gap: 16px;
 }
-
-ul > li {
-  margin-left: 16px;
-}
